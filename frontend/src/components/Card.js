@@ -833,7 +833,7 @@ const UiverseWrapper = styled.div`
   }
 
   & .inner-card {
-    min-height: 340px;
+    min-height: 453.33px;
   }
 
 
