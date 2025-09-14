@@ -886,7 +886,7 @@ const UiverseWrapper = styled.div`
     grid-template-rows: auto auto auto auto; /* عنوان + ثلاث عناصر */
     align-items: start;
     justify-items: center;
-    gap: 6px;
+    gap: 8px;
     width: 100%;
   }
 
