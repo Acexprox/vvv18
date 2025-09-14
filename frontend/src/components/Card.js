@@ -374,12 +374,12 @@ const StyledWrapper = styled.div`
 
   .card .blue-line {
     position: absolute;
-    bottom: 45px;
-    left: 0.8rem;
-    right: 0.8rem;
-    height: 1px;
+    bottom: 60px;
+    left: 1.07rem;
+    right: 1.07rem;
+    height: 1.33px;
     background-color: #1e40af;
-    border-radius: 0.5px;
+    border-radius: 0.67px;
   }
 
   .card .features-icons {
