@@ -958,8 +958,8 @@ const UiverseWrapper = styled.div`
   }
 
   & .service-icon {
-    font-size: 18px;
-    min-width: 14px;
+    font-size: 24px;
+    min-width: 18.67px;
     line-height: 1;
     vertical-align: top;
     display: inline-flex;
@@ -967,15 +967,15 @@ const UiverseWrapper = styled.div`
     justify-content: center;
     color: #6366f1;
     position: relative;
-    width: 28px;
-    height: 28px;
+    width: 37.33px;
+    height: 37.33px;
     border-radius: 50%;
     background: radial-gradient(130% 130% at 30% 20%, rgba(255,255,255,0.80), rgba(255,255,255,0.35) 60%, rgba(255,255,255,0.15) 100%);
-    border: 1px solid rgba(255,255,255,0.85);
+    border: 1.33px solid rgba(255,255,255,0.85);
     box-shadow:
-      0 1px 0 rgba(255,255,255,0.7) inset,
-      0 0 0 1px rgba(2,6,23,0.04),
-      0 8px 14px rgba(2,6,23,0.06);
+      0 1.33px 0 rgba(255,255,255,0.7) inset,
+      0 0 0 1.33px rgba(2,6,23,0.04),
+      0 10.67px 18.67px rgba(2,6,23,0.06);
     transition: transform 0.25s ease, box-shadow 0.25s ease;
   }
 
