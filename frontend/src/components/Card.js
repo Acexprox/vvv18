@@ -267,10 +267,10 @@ const StyledWrapper = styled.div`
 
   .card .green-circle {
     position: absolute;
-    width: 12px;
-    height: 12px;
-    top: 8px;
-    left: 8px;
+    width: 16px;
+    height: 16px;
+    top: 10.67px;
+    left: 10.67px;
     background-color: #22c55e;
     border-radius: 50%;
   }
