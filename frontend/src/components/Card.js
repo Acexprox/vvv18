@@ -336,8 +336,8 @@ const StyledWrapper = styled.div`
   .card .card-title-overlay {
     position: absolute;
     top: 50%;
-    left: 15px;
-    right: 95px;
+    left: 20px;
+    right: 126.67px;
     transform: translateY(-50%);
     text-align: right;
     z-index: 5;
