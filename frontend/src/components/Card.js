@@ -426,7 +426,7 @@ const StyledWrapper = styled.div`
   }
 
   .card .feature-item span {
-    font-size: 8px;
+    font-size: 10.67px;
     font-weight: 700;
     color: #374151;
     text-align: center;
