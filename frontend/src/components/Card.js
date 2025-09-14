@@ -345,7 +345,7 @@ const StyledWrapper = styled.div`
   }
 
   .card .main-title {
-    font-size: 17px;
+    font-size: 22.67px;
     font-weight: 700;
     color: #144076;
     margin: 0;
