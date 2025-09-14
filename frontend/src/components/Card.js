@@ -792,8 +792,8 @@ const UiverseWrapper = styled.div`
 
   & .img-container {
     display: grid;
-    border-radius: .5rem 2rem;
-    height: 250px;
+    border-radius: .67rem 2.67rem;
+    height: 333.33px;
     overflow: hidden;
   }
 
