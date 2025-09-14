@@ -326,8 +326,8 @@ const StyledWrapper = styled.div`
   .card .content { 
     display: flex;
     justify-content: center;
-    margin-top: 0.5rem;
-    padding: 0px 0.8rem;
+    margin-top: 0.67rem;
+    padding: 0px 1.07rem;
     margin-bottom: 0rem;
     direction: rtl;
     text-align: right;
