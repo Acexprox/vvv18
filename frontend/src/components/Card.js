@@ -803,7 +803,7 @@ const UiverseWrapper = styled.div`
     left: .5rem;
     text-align: start;
     padding: .27rem 1.33em;
-    width: 88%;
+    width: 92%;
     transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
     text-overflow: ellipsis;
     white-space: nowrap;
