@@ -799,20 +799,20 @@ const UiverseWrapper = styled.div`
 
   & .description {
     position: absolute;
-    bottom: .5rem;
-    left: .05rem;
+    bottom: .67rem;
+    left: .067rem;
     text-align: start;
-    padding: .2rem 1em;
+    padding: .27rem 1.33em;
     width: 96%;
     transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
     text-overflow: ellipsis;
     white-space: nowrap;
-    backdrop-filter: blur(.1rem);
+    backdrop-filter: blur(.133rem);
     background: linear-gradient(135deg, 
       rgba(20, 64, 118, 0.85) 0%, 
       rgba(25, 70, 130, 0.8) 50%, 
       rgba(20, 64, 118, 0.85) 100%);
-    border-radius: .5rem 2rem;
+    border-radius: .67rem 2.67rem;
     border: 1px solid rgba(255, 255, 255, 0.15);
     cursor: pointer;
   }
