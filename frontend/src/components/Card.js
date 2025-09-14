@@ -840,12 +840,12 @@ const UiverseWrapper = styled.div`
 
   & .services-data {
     position: absolute;
-    top: 18px;
-    left: 1px;
-    right: 1px;
+    top: 24px;
+    left: 1.33px;
+    right: 1.33px;
     display: flex;
     flex-direction: row;
-    gap: 10px;
+    gap: 13.33px;
     font-family: 'Tajawal', Arial, sans-serif;
     direction: rtl;
     text-align: right;
