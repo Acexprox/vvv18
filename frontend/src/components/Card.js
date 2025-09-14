@@ -359,10 +359,10 @@ const StyledWrapper = styled.div`
   }
 
   .card .sub-title {
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 500;
     color: #6b7280;
-    margin: 2px 0 0 0;
+    margin: 2.67px 0 0 0;
     line-height: 1.2;
     font-family: 'Tajawal', Arial, sans-serif;
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
