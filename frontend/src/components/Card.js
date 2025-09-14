@@ -800,7 +800,7 @@ const UiverseWrapper = styled.div`
   & .description {
     position: absolute;
     bottom: .67rem;
-    left: .7rem;
+    left: .75rem;
     text-align: start;
     padding: .27rem 1.33em;
     width: 92%;
