@@ -869,14 +869,14 @@ const UiverseWrapper = styled.div`
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 6px;
+    gap: 8px;
     background: rgba(255, 255, 255, 0.9);
-    padding: 8px 4px;
-    border-radius: 6px;
-    backdrop-filter: blur(4px);
+    padding: 10.67px 5.33px;
+    border-radius: 8px;
+    backdrop-filter: blur(5.33px);
     border: 1px solid rgba(255, 255, 255, 0.3);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    width: 104px;
+    width: 138.67px;
     min-height: auto;
     text-align: center;
   }
