@@ -919,13 +919,13 @@ const UiverseWrapper = styled.div`
 
   & .service-item {
     color: #6b7280;
-    font-size: 10px;
+    font-size: 13.33px;
     font-weight: 600;
     line-height: 1.3;
-    padding-right: 8px; /* مساحة إضافية من الحافة اليمنى (RTL) */
+    padding-right: 10.67px; /* مساحة إضافية من الحافة اليمنى (RTL) */
     display: grid;
-    grid-template-columns: 6px auto;
-    column-gap: 3px;
+    grid-template-columns: 8px auto;
+    column-gap: 4px;
     align-items: center;
     width: 100%;
     transform: scale(1.08);
