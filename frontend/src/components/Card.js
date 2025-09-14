@@ -232,13 +232,13 @@ const StyledWrapper = styled.div`
   }
 
   .card .image-container {
-    margin-bottom: 1rem;
+    margin-bottom: 1.33rem;
     position: relative;
     width: 100%;
-    height: 130px;
-    border-radius: 0.7rem;
-    border-top-left-radius: 4rem;
-    margin-bottom: 0.25rem;
+    height: 173px;
+    border-radius: 0.93rem;
+    border-top-left-radius: 5.33rem;
+    margin-bottom: 0.33rem;
     overflow: hidden;
   }
 
