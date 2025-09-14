@@ -1091,12 +1091,12 @@ const UiverseWrapper = styled.div`
 
   @keyframes halo-pulse-orange {
     0%, 100% { 
-      box-shadow: 0 0 0 1px rgba(245, 158, 11, 0.12);
+      box-shadow: 0 0 0 1.33px rgba(245, 158, 11, 0.12);
       background: rgba(245, 158, 11, 0.04);
       transform: translate(-50%, -50%) scale(1);
     }
     50% { 
-      box-shadow: 0 0 0 3px rgba(245, 158, 11, 0.18), 0 0 0 6px rgba(245, 158, 11, 0.08);
+      box-shadow: 0 0 0 4px rgba(245, 158, 11, 0.18), 0 0 0 8px rgba(245, 158, 11, 0.08);
       background: rgba(245, 158, 11, 0.08);
       transform: translate(-50%, -50%) scale(1.15);
     }
