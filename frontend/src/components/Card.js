@@ -216,12 +216,12 @@ const StyledWrapper = styled.div`
   .card {
     --accent-color: #ffd426;
     position: relative;
-    width: 240px;
+    width: 320px;
     background: rgba(255, 255, 255, 0.95);
     backdrop-filter: blur(10px);
     border: 1px solid rgba(255, 255, 255, 0.18);
-    border-radius: 1rem;
-    padding: 0.3rem 0.3rem 4.5rem 0.3rem;
+    border-radius: 1.33rem;
+    padding: 0.4rem 0.4rem 6rem 0.4rem;
     box-shadow: 
       0 25px 50px -12px rgba(0, 0, 0, 0.25),
       0 0 0 1px rgba(255, 255, 255, 0.05),
