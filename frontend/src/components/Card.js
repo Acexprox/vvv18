@@ -933,10 +933,10 @@ const UiverseWrapper = styled.div`
   }
 
   & .item-circle {
-    width: 6px;
-    height: 6px;
+    width: 8px;
+    height: 8px;
     border-radius: 50%;
-    border: 1.5px solid;
+    border: 2px solid;
     background: transparent;
     display: inline-block;
     flex-shrink: 0;
