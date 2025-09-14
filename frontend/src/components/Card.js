@@ -277,13 +277,13 @@ const StyledWrapper = styled.div`
 
   .card .white-circle {
     position: absolute;
-    width: 80px;
-    height: 80px;
+    width: 106.67px;
+    height: 106.67px;
     top: 50%;
-    right: 5px;
+    right: 6.67px;
     transform: translateY(-50%);
     background: linear-gradient(145deg, #ffffff, #f8fafc);
-    border: 2px solid rgba(255, 255, 255, 0.8);
+    border: 2.67px solid rgba(255, 255, 255, 0.8);
     border-radius: 50%;
     display: flex;
     align-items: center;
