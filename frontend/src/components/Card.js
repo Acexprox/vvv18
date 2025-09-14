@@ -1033,11 +1033,11 @@ const UiverseWrapper = styled.div`
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 12px;
-    height: 12px;
+    width: 16px;
+    height: 16px;
     border-radius: 50%;
     background: rgba(16, 185, 129, 0.04);
-    box-shadow: 0 0 0 1px rgba(16, 185, 129, 0.12);
+    box-shadow: 0 0 0 1.33px rgba(16, 185, 129, 0.12);
     animation: halo-pulse-green 5s ease-in-out infinite;
     z-index: -1;
   }
