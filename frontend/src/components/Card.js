@@ -300,8 +300,8 @@ const StyledWrapper = styled.div`
   }
 
   .card .gift-cards-image {
-    width: 70px;
-    height: 70px;
+    width: 93.33px;
+    height: 93.33px;
     object-fit: cover;
     border-radius: 50%;
     opacity: 0.9;
