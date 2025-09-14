@@ -1104,7 +1104,7 @@ const UiverseWrapper = styled.div`
 
   & .service-text {
     color: #374151;
-    font-size: 9px;
+    font-size: 12px;
     font-weight: 500;
     line-height: 1.3;
     flex: 1;
