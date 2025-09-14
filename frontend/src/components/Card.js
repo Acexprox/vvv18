@@ -384,9 +384,9 @@ const StyledWrapper = styled.div`
 
   .card .features-icons {
     position: absolute;
-    bottom: 8px;
-    left: 0.8rem;
-    right: 0.8rem;
+    bottom: 10.67px;
+    left: 1.07rem;
+    right: 1.07rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
