@@ -905,12 +905,12 @@ const UiverseWrapper = styled.div`
 
   & .service-description {
     color: #6b7280;
-    font-size: 10px;
+    font-size: 13.33px;
     font-weight: 600;
     line-height: 1.4;
     padding-right: 0px;
     margin-left: 0px;
-    word-spacing: -0.5px;
+    word-spacing: -0.67px;
     white-space: normal;
     display: inline-block;
     transform: scale(1.12);
