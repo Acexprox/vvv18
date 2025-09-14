@@ -892,10 +892,10 @@ const UiverseWrapper = styled.div`
 
   & .service-title {
     color: #374151;
-    font-size: 13px;
+    font-size: 17.33px;
     font-weight: 800;
     line-height: 1.3;
-    margin-bottom: 2px;
+    margin-bottom: 2.67px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
