@@ -421,7 +421,7 @@ const StyledWrapper = styled.div`
   }
 
   .card .feature-item .icon {
-    font-size: 16px;
+    font-size: 21.33px;
     line-height: 1;
   }
 
